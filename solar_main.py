@@ -18,7 +18,7 @@ displayed_time = None
 """Отображаемое на экране время.
 Тип: переменная tkinter"""
 
-time_step = None
+time_step = 1000.0
 """Шаг по времени при моделировании.
 Тип: float"""
 
